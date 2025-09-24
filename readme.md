@@ -318,7 +318,7 @@ The Ames Housing dataset required several cleaning and transformation steps befo
 - **Features (X)**: Defined as the engineered features above.  
 - **Target (y)**: `SalePrice`.  
 - Data was split into **80% training** and **20% testing** using `train_test_split(random_state=42)` to ensure reproducibility.  
-![Training sets](assets/training-set#.png)  
+![Training sets](assets/training-set.png)  
 ---
 
 ### 🏗️ Preprocessing Pipeline  
